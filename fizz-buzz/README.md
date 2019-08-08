@@ -34,6 +34,17 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 	Buzz
 	... etc up to 100
 
+------------------- FIN ---------------------
+
+
+
+
+
+
+
+
+
+
 ---
 # Stop reading until you have developed this part
 ---
